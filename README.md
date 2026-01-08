@@ -1,4 +1,9 @@
 ﻿# doanappiot-dangthuchien
 
-<video src="./assets/automationregig.mp4" controls="controls" muted="muted" autoplay="autoplay" loop="loop">
+<video src="https://github.com/user-attachments/assets/0ca21639-4e0e-40fa-a82a-66c734ab98af" controls="controls" muted="muted" autoplay="autoplay" loop="loop">
 </video>
+
+
+https://github.com/user-attachments/assets/0ca21639-4e0e-40fa-a82a-66c734ab98af
+
+
